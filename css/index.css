@@ -111,7 +111,7 @@ h1 {
 
 /* Position and style the close button (top right corner) */
 .sidebar .closebtn {
-  position: absolute;
+  position: right;
   top: 0;
   right: 25px;
   font-size: 36px;
