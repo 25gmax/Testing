@@ -114,7 +114,7 @@ h1 {
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
   background-color: black;
-  color: blue;
+  color: white;
 }
 /* Dropdown Button */
 .dropbtn {
